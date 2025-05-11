@@ -31,12 +31,12 @@ I'm [Alif](https://linkedin.com/in/alifruliarso/), a seasoned software developer
 
 💡 Work history on [Upwork](https://www.upwork.com/freelancers/~018d8a1d9dcab5ac61):
 
-* ✅Generative AI: Chatbot API development using FastAPI, LangChain, and LLMs for powerful AI integration.
-* ✅Web Scraping: Building efficient web scrapers with Playwright for data extraction.
-* ✅Discord Bot Development: Creating interactive Discord bots using discord.py/Nextcord with Twitter and Keepa API integrations.
-* ✅RESTful API Development: Proficient in building robust APIs using Spring Boot, FastAPI/Flask, and Docker containerization.
-* ✅Database Management: Expertise in MySQL and PostgreSQL for data storage and manipulation.
-* ✅PDF Data Extraction: Accomplished in extracting structured data from PDFs and designing efficient database schemas.
+- ✅Generative AI: Chatbot API development using FastAPI, LangChain, and LLMs for powerful AI integration.
+- ✅Web Scraping: Building efficient web scrapers with Playwright for data extraction.
+- ✅Discord Bot Development: Creating interactive Discord bots using discord.py/Nextcord with Twitter and Keepa API integrations.
+- ✅RESTful API Development: Proficient in building robust APIs using Spring Boot, FastAPI/Flask, and Docker containerization.
+- ✅Database Management: Expertise in MySQL and PostgreSQL for data storage and manipulation.
+- ✅PDF Data Extraction: Accomplished in extracting structured data from PDFs and designing efficient database schemas.
 
 👨‍💻 What I Offer:
 
