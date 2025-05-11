@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alifruliarso
 
 repo_description_lines_max: 2
 
 github_repos:
+  - alifruliarso/springsecurity-ott
+  - alifruliarso/schedulingassistants-springai
+  - alifruliarso/fastapi_restaurant_booking
   - alshedivat/al-folio
   - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons

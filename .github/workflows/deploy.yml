@@ -2,9 +2,7 @@ name: Deploy site
 
 on:
   push:
-    branches:
-      - master
-      - main
+    branches: "main"
     paths:
       - "assets/**"
       - "_sass/**"
@@ -31,9 +29,7 @@ on:
       - "!INSTALL.md"
       - "!README.md"
   pull_request:
-    branches:
-      - master
-      - main
+    branches: "main"
     paths:
       - "assets/**"
       - "_sass/**"
